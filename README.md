@@ -1,0 +1,2 @@
+# DeceptDisableCombatRoll
+Disable CombatRoll
